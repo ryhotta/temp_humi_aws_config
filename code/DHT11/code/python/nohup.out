@@ -1,0 +1,836 @@
+Connected to AWS IoT
+Temperature: 11.0 C
+Humidity: 46.2 %
+=====================
+Temperature: 11.1 C
+Humidity: 47.8 %
+=====================
+Temperature: 11.3 C
+Humidity: 49.3 %
+=====================
+Temperature: 11.3 C
+Humidity: 49.0 %
+=====================
+Temperature: 11.5 C
+Humidity: 57.8 %
+=====================
+Temperature: 11.8 C
+Humidity: 55.5 %
+=====================
+Temperature: 11.9 C
+Humidity: 55.2 %
+=====================
+Temperature: 11.6 C
+Humidity: 53.5 %
+=====================
+Temperature: 11.4 C
+Humidity: 52.9 %
+=====================
+Temperature: 11.4 C
+Humidity: 52.5 %
+=====================
+Temperature: 11.2 C
+Humidity: 52.2 %
+=====================
+Temperature: 10.9 C
+Humidity: 52.1 %
+=====================
+Temperature: 10.6 C
+Humidity: 52.2 %
+=====================
+Temperature: 10.4 C
+Humidity: 53.2 %
+=====================
+Temperature: 10.2 C
+Humidity: 52.6 %
+=====================
+Temperature: 9.9 C
+Humidity: 52.4 %
+=====================
+Temperature: 9.8 C
+Humidity: 52.3 %
+=====================
+Temperature: 9.4 C
+Humidity: 52.4 %
+=====================
+Temperature: 9.2 C
+Humidity: 52.5 %
+=====================
+Temperature: 9.0 C
+Humidity: 53.0 %
+=====================
+Temperature: 9.0 C
+Humidity: 50.7 %
+=====================
+Temperature: 8.9 C
+Humidity: 50.3 %
+=====================
+Temperature: 10.3 C
+Humidity: 45.0 %
+=====================
+Temperature: 9.6 C
+Humidity: 45.3 %
+=====================
+Temperature: 9.9 C
+Humidity: 43.6 %
+=====================
+Temperature: 10.1 C
+Humidity: 42.4 %
+=====================
+Temperature: 10.2 C
+Humidity: 42.3 %
+=====================
+Temperature: 10.5 C
+Humidity: 41.1 %
+=====================
+Temperature: 10.9 C
+Humidity: 37.8 %
+=====================
+Temperature: 11.5 C
+Humidity: 35.5 %
+=====================
+Temperature: 12.2 C
+Humidity: 32.5 %
+=====================
+Temperature: 12.9 C
+Humidity: 28.4 %
+=====================
+Temperature: 15.3 C
+Humidity: 34.3 %
+=====================
+Temperature: 16.3 C
+Humidity: 35.0 %
+=====================
+Temperature: 16.7 C
+Humidity: 34.1 %
+=====================
+Temperature: 15.7 C
+Humidity: 33.2 %
+=====================
+Temperature: 14.9 C
+Humidity: 34.7 %
+=====================
+Temperature: 13.9 C
+Humidity: 36.3 %
+=====================
+Temperature: 13.2 C
+Humidity: 37.2 %
+=====================
+Temperature: 12.7 C
+Humidity: 38.5 %
+=====================
+Temperature: 12.1 C
+Humidity: 39.9 %
+=====================
+Temperature: 13.3 C
+Humidity: 40.4 %
+=====================
+Temperature: 12.9 C
+Humidity: 48.8 %
+=====================
+Temperature: 12.5 C
+Humidity: 46.7 %
+=====================
+Temperature: 12.3 C
+Humidity: 50.0 %
+=====================
+Temperature: 12.1 C
+Humidity: 49.3 %
+=====================
+Temperature: 12.5 C
+Humidity: 60.4 %
+=====================
+Temperature: 12.1 C
+Humidity: 55.6 %
+=====================
+Temperature: 12.9 C
+Humidity: 54.0 %
+=====================
+Temperature: 12.5 C
+Humidity: 53.4 %
+=====================
+Temperature: 11.8 C
+Humidity: 52.7 %
+=====================
+Temperature: 11.5 C
+Humidity: 52.6 %
+=====================
+Temperature: 10.5 C
+Humidity: 52.1 %
+=====================
+Temperature: 10.2 C
+Humidity: 51.9 %
+=====================
+Temperature: 10.0 C
+Humidity: 52.0 %
+=====================
+Temperature: 9.4 C
+Humidity: 52.0 %
+=====================
+Temperature: 9.4 C
+Humidity: 52.0 %
+=====================
+Temperature: 9.1 C
+Humidity: 53.1 %
+=====================
+Temperature: 8.9 C
+Humidity: 52.1 %
+=====================
+Temperature: 8.7 C
+Humidity: 51.9 %
+=====================
+Temperature: 9.9 C
+Humidity: 49.8 %
+=====================
+Temperature: 9.7 C
+Humidity: 48.3 %
+=====================
+Temperature: 9.6 C
+Humidity: 48.2 %
+=====================
+Temperature: 10.2 C
+Humidity: 46.7 %
+=====================
+Temperature: 10.0 C
+Humidity: 45.7 %
+=====================
+Temperature: 10.0 C
+Humidity: 43.5 %
+=====================
+Temperature: 10.9 C
+Humidity: 45.6 %
+=====================
+Temperature: 12.0 C
+Humidity: 43.3 %
+=====================
+Temperature: 12.4 C
+Humidity: 40.2 %
+=====================
+Temperature: 12.9 C
+Humidity: 36.1 %
+=====================
+Temperature: 13.7 C
+Humidity: 38.1 %
+=====================
+Temperature: 14.3 C
+Humidity: 36.5 %
+=====================
+Temperature: 15.7 C
+Humidity: 36.0 %
+=====================
+Temperature: 14.5 C
+Humidity: 29.3 %
+=====================
+Temperature: 14.0 C
+Humidity: 28.3 %
+=====================
+Temperature: 13.5 C
+Humidity: 36.5 %
+=====================
+Temperature: 12.9 C
+Humidity: 39.2 %
+=====================
+Temperature: 12.5 C
+Humidity: 42.5 %
+=====================
+Temperature: 12.8 C
+Humidity: 57.4 %
+=====================
+Temperature: 12.4 C
+Humidity: 51.9 %
+=====================
+Temperature: 12.5 C
+Humidity: 51.2 %
+=====================
+Temperature: 12.6 C
+Humidity: 49.8 %
+=====================
+Temperature: 12.4 C
+Humidity: 50.2 %
+=====================
+Temperature: 13.0 C
+Humidity: 50.9 %
+=====================
+Temperature: 13.3 C
+Humidity: 58.3 %
+=====================
+Temperature: 12.9 C
+Humidity: 59.3 %
+=====================
+Temperature: 12.9 C
+Humidity: 56.1 %
+=====================
+Temperature: 12.7 C
+Humidity: 55.4 %
+=====================
+Temperature: 12.5 C
+Humidity: 55.3 %
+=====================
+Temperature: 12.4 C
+Humidity: 54.6 %
+=====================
+Temperature: 12.1 C
+Humidity: 54.0 %
+=====================
+Temperature: 11.8 C
+Humidity: 53.8 %
+=====================
+Temperature: 11.4 C
+Humidity: 53.8 %
+=====================
+Temperature: 11.3 C
+Humidity: 54.1 %
+=====================
+Temperature: 11.3 C
+Humidity: 53.7 %
+=====================
+Temperature: 11.1 C
+Humidity: 53.7 %
+=====================
+Temperature: 11.3 C
+Humidity: 53.5 %
+=====================
+Temperature: 10.7 C
+Humidity: 53.6 %
+=====================
+Temperature: 10.7 C
+Humidity: 54.4 %
+=====================
+Temperature: 10.8 C
+Humidity: 53.6 %
+=====================
+Temperature: 10.4 C
+Humidity: 53.6 %
+=====================
+Temperature: 10.2 C
+Humidity: 51.8 %
+=====================
+Temperature: 10.4 C
+Humidity: 51.0 %
+=====================
+Temperature: 10.5 C
+Humidity: 49.6 %
+=====================
+Temperature: 10.8 C
+Humidity: 48.9 %
+=====================
+Temperature: 10.9 C
+Humidity: 47.0 %
+=====================
+Temperature: 11.3 C
+Humidity: 47.3 %
+=====================
+Temperature: 12.0 C
+Humidity: 45.5 %
+=====================
+Temperature: 13.2 C
+Humidity: 40.3 %
+=====================
+Temperature: 14.0 C
+Humidity: 36.0 %
+=====================
+Temperature: 14.6 C
+Humidity: 36.4 %
+=====================
+Temperature: 15.4 C
+Humidity: 35.7 %
+=====================
+Temperature: 15.5 C
+Humidity: 35.1 %
+=====================
+Temperature: 15.3 C
+Humidity: 33.3 %
+=====================
+Temperature: 14.9 C
+Humidity: 34.9 %
+=====================
+Temperature: 14.2 C
+Humidity: 32.6 %
+=====================
+Temperature: 13.7 C
+Humidity: 33.1 %
+=====================
+Temperature: 13.1 C
+Humidity: 39.3 %
+=====================
+Temperature: 12.8 C
+Humidity: 41.4 %
+=====================
+Temperature: 11.7 C
+Humidity: 41.3 %
+=====================
+Temperature: 11.1 C
+Humidity: 43.3 %
+=====================
+Temperature: 12.1 C
+Humidity: 48.1 %
+=====================
+Temperature: 12.0 C
+Humidity: 58.5 %
+=====================
+Temperature: 11.9 C
+Humidity: 56.9 %
+=====================
+Temperature: 10.7 C
+Humidity: 81.9 %
+=====================
+Temperature: 11.9 C
+Humidity: 64.5 %
+=====================
+Temperature: 12.5 C
+Humidity: 61.3 %
+=====================
+Temperature: 12.8 C
+Humidity: 60.2 %
+=====================
+Temperature: 12.5 C
+Humidity: 60.2 %
+=====================
+Temperature: 12.1 C
+Humidity: 59.8 %
+=====================
+Temperature: 11.8 C
+Humidity: 59.0 %
+=====================
+Temperature: 11.5 C
+Humidity: 58.9 %
+=====================
+Temperature: 11.4 C
+Humidity: 59.0 %
+=====================
+Temperature: 11.3 C
+Humidity: 58.1 %
+=====================
+Temperature: 10.8 C
+Humidity: 57.8 %
+=====================
+Temperature: 10.6 C
+Humidity: 57.6 %
+=====================
+Temperature: 10.5 C
+Humidity: 57.6 %
+=====================
+Temperature: 10.4 C
+Humidity: 57.7 %
+=====================
+Temperature: 9.8 C
+Humidity: 58.5 %
+=====================
+Temperature: 9.4 C
+Humidity: 58.9 %
+=====================
+Temperature: 9.3 C
+Humidity: 57.5 %
+=====================
+Temperature: 9.8 C
+Humidity: 53.3 %
+=====================
+Temperature: 10.5 C
+Humidity: 52.7 %
+=====================
+Temperature: 10.6 C
+Humidity: 50.8 %
+=====================
+Temperature: 11.0 C
+Humidity: 51.2 %
+=====================
+Temperature: 11.5 C
+Humidity: 45.7 %
+=====================
+Temperature: 13.3 C
+Humidity: 48.5 %
+=====================
+Temperature: 13.8 C
+Humidity: 46.3 %
+=====================
+Temperature: 14.7 C
+Humidity: 44.7 %
+=====================
+Temperature: 15.6 C
+Humidity: 43.0 %
+=====================
+Temperature: 16.4 C
+Humidity: 40.7 %
+=====================
+Temperature: 16.6 C
+Humidity: 37.4 %
+=====================
+Temperature: 17.0 C
+Humidity: 36.4 %
+=====================
+Temperature: 17.7 C
+Humidity: 37.3 %
+=====================
+Temperature: 17.3 C
+Humidity: 38.4 %
+=====================
+Temperature: 17.0 C
+Humidity: 39.2 %
+=====================
+Temperature: 16.5 C
+Humidity: 39.9 %
+=====================
+Temperature: 15.6 C
+Humidity: 41.5 %
+=====================
+Temperature: 14.3 C
+Humidity: 44.2 %
+=====================
+Temperature: 14.1 C
+Humidity: 46.2 %
+=====================
+Temperature: 13.9 C
+Humidity: 49.0 %
+=====================
+Temperature: 14.0 C
+Humidity: 49.8 %
+=====================
+Temperature: 13.7 C
+Humidity: 52.0 %
+=====================
+Temperature: 13.1 C
+Humidity: 61.1 %
+=====================
+Temperature: 13.3 C
+Humidity: 58.5 %
+=====================
+Temperature: 14.3 C
+Humidity: 55.6 %
+=====================
+Temperature: 15.1 C
+Humidity: 59.4 %
+=====================
+Temperature: 15.1 C
+Humidity: 57.6 %
+=====================
+Temperature: 14.2 C
+Humidity: 57.7 %
+=====================
+Temperature: 13.9 C
+Humidity: 57.3 %
+=====================
+Temperature: 13.3 C
+Humidity: 57.0 %
+=====================
+Temperature: 13.2 C
+Humidity: 56.7 %
+=====================
+Temperature: 12.9 C
+Humidity: 56.6 %
+=====================
+Temperature: 12.5 C
+Humidity: 56.5 %
+=====================
+Temperature: 12.3 C
+Humidity: 56.1 %
+=====================
+Temperature: 12.1 C
+Humidity: 56.3 %
+=====================
+Temperature: 11.9 C
+Humidity: 56.3 %
+=====================
+Temperature: 11.6 C
+Humidity: 56.4 %
+=====================
+Temperature: 11.1 C
+Humidity: 56.4 %
+=====================
+Temperature: 10.9 C
+Humidity: 56.6 %
+=====================
+Temperature: 9.2 C
+Humidity: 46.6 %
+=====================
+Temperature: 9.6 C
+Humidity: 51.1 %
+=====================
+Temperature: 10.0 C
+Humidity: 50.4 %
+=====================
+Temperature: 10.6 C
+Humidity: 49.7 %
+=====================
+Temperature: 11.0 C
+Humidity: 52.9 %
+=====================
+Temperature: 11.5 C
+Humidity: 47.9 %
+=====================
+Temperature: 12.2 C
+Humidity: 47.0 %
+=====================
+Temperature: 13.0 C
+Humidity: 44.8 %
+=====================
+Temperature: 15.3 C
+Humidity: 42.1 %
+=====================
+Temperature: 15.9 C
+Humidity: 41.1 %
+=====================
+Temperature: 16.7 C
+Humidity: 39.1 %
+=====================
+Temperature: 17.0 C
+Humidity: 38.8 %
+=====================
+Temperature: 17.3 C
+Humidity: 38.2 %
+=====================
+Temperature: 18.1 C
+Humidity: 43.2 %
+=====================
+Temperature: 18.2 C
+Humidity: 43.5 %
+=====================
+Temperature: 18.2 C
+Humidity: 44.2 %
+=====================
+Temperature: 17.2 C
+Humidity: 45.1 %
+=====================
+Temperature: 17.4 C
+Humidity: 44.7 %
+=====================
+Temperature: 17.3 C
+Humidity: 44.5 %
+=====================
+Temperature: 16.9 C
+Humidity: 45.5 %
+=====================
+Temperature: 16.5 C
+Humidity: 49.8 %
+=====================
+Temperature: 15.5 C
+Humidity: 53.7 %
+=====================
+Temperature: 15.1 C
+Humidity: 55.5 %
+=====================
+Temperature: 14.9 C
+Humidity: 62.0 %
+=====================
+Temperature: 14.2 C
+Humidity: 60.2 %
+=====================
+Temperature: 15.9 C
+Humidity: 54.0 %
+=====================
+Temperature: 15.9 C
+Humidity: 53.5 %
+=====================
+Temperature: 15.0 C
+Humidity: 54.8 %
+=====================
+Temperature: 14.4 C
+Humidity: 54.8 %
+=====================
+Temperature: 14.0 C
+Humidity: 54.9 %
+=====================
+Temperature: 13.7 C
+Humidity: 55.1 %
+=====================
+Temperature: 13.3 C
+Humidity: 54.9 %
+=====================
+Temperature: 13.0 C
+Humidity: 54.8 %
+=====================
+Temperature: 12.7 C
+Humidity: 54.7 %
+=====================
+Temperature: 12.7 C
+Humidity: 54.6 %
+=====================
+Temperature: 12.7 C
+Humidity: 54.6 %
+=====================
+Temperature: 12.5 C
+Humidity: 54.4 %
+=====================
+Temperature: 12.1 C
+Humidity: 54.0 %
+=====================
+Temperature: 10.3 C
+Humidity: 52.5 %
+=====================
+Temperature: 10.2 C
+Humidity: 56.8 %
+=====================
+Temperature: 12.1 C
+Humidity: 54.9 %
+=====================
+Temperature: 12.1 C
+Humidity: 56.3 %
+=====================
+Temperature: 11.5 C
+Humidity: 56.5 %
+=====================
+Temperature: 12.3 C
+Humidity: 55.6 %
+=====================
+Temperature: 12.6 C
+Humidity: 55.9 %
+=====================
+Temperature: 13.1 C
+Humidity: 56.1 %
+=====================
+Temperature: 12.5 C
+Humidity: 35.4 %
+=====================
+Temperature: 12.9 C
+Humidity: 30.6 %
+=====================
+Temperature: 12.5 C
+Humidity: 20.0 %
+=====================
+Temperature: 13.2 C
+Humidity: 20.0 %
+=====================
+Temperature: 13.7 C
+Humidity: 20.0 %
+=====================
+Temperature: 14.3 C
+Humidity: 20.0 %
+=====================
+Temperature: 14.1 C
+Humidity: 20.0 %
+=====================
+Temperature: 14.7 C
+Humidity: 20.0 %
+=====================
+Temperature: 14.0 C
+Humidity: 20.0 %
+=====================
+Temperature: 14.7 C
+Humidity: 33.3 %
+=====================
+Temperature: 13.6 C
+Humidity: 35.9 %
+=====================
+Temperature: 13.0 C
+Humidity: 38.3 %
+=====================
+Temperature: 12.4 C
+Humidity: 40.3 %
+=====================
+Temperature: 10.9 C
+Humidity: 49.8 %
+=====================
+Temperature: 10.4 C
+Humidity: 47.2 %
+=====================
+Temperature: 11.2 C
+Humidity: 48.5 %
+=====================
+Temperature: 11.4 C
+Humidity: 58.3 %
+=====================
+Temperature: 11.7 C
+Humidity: 57.0 %
+=====================
+Temperature: 11.3 C
+Humidity: 54.7 %
+=====================
+Temperature: 11.2 C
+Humidity: 52.9 %
+=====================
+Temperature: 10.9 C
+Humidity: 52.5 %
+=====================
+Temperature: 11.2 C
+Humidity: 52.8 %
+=====================
+Temperature: 10.7 C
+Humidity: 52.4 %
+=====================
+Temperature: 10.4 C
+Humidity: 52.2 %
+=====================
+Temperature: 10.5 C
+Humidity: 52.2 %
+=====================
+Temperature: 9.9 C
+Humidity: 52.2 %
+=====================
+Temperature: 9.7 C
+Humidity: 52.7 %
+=====================
+Temperature: 9.6 C
+Humidity: 52.5 %
+=====================
+Temperature: 9.4 C
+Humidity: 52.6 %
+=====================
+Temperature: 8.9 C
+Humidity: 52.4 %
+=====================
+Temperature: 9.0 C
+Humidity: 51.4 %
+=====================
+Temperature: 8.7 C
+Humidity: 50.2 %
+=====================
+Temperature: 8.7 C
+Humidity: 51.1 %
+=====================
+Temperature: 8.9 C
+Humidity: 50.2 %
+=====================
+Temperature: 10.4 C
+Humidity: 46.4 %
+=====================
+Temperature: 9.7 C
+Humidity: 47.4 %
+=====================
+Temperature: 9.4 C
+Humidity: 47.0 %
+=====================
+Temperature: 9.2 C
+Humidity: 46.8 %
+=====================
+Temperature: 9.4 C
+Humidity: 45.4 %
+=====================
+Temperature: 10.0 C
+Humidity: 43.9 %
+=====================
+Temperature: 10.3 C
+Humidity: 44.8 %
+=====================
+Temperature: 13.3 C
+Humidity: 42.4 %
+=====================
+Temperature: 14.1 C
+Humidity: 40.5 %
+=====================
+Temperature: 15.3 C
+Humidity: 40.6 %
+=====================
+Temperature: 15.9 C
+Humidity: 37.2 %
+=====================
+Temperature: 16.4 C
+Humidity: 35.4 %
+=====================
+Temperature: 16.1 C
+Humidity: 34.4 %
+=====================
+Temperature: 15.8 C
+Humidity: 33.2 %
+=====================
+Temperature: 15.3 C
+Humidity: 31.6 %
+=====================
+Temperature: 13.7 C
+Humidity: 38.2 %
+=====================
+Temperature: 13.0 C
+Humidity: 40.2 %
+=====================
+Temperature: 12.7 C
+Humidity: 40.8 %
+=====================
+Temperature: 11.9 C
